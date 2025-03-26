@@ -1,6 +1,6 @@
 # Smartphone Robot - An easy robot you can control with your Smartphone
 
-This is an easy robot soldering kit. The fun part is, you don't program the hardware. You just add an Smartphone and due to light signals it controlls the motors of the robot. Thus you can easily controll the robot with any smartphone wihtout any programming skills. You want to take it further? No problem. We also have an coding guide to program your own app.
+This is an easy robot soldering kit to turn a smartphone into a robot. The fun part is, you don't program the hardware. You just add an Smartphone and due to light signals it controlls the motors of the robot. Thus you can easily controll the robot with any smartphone wihtout any programming skills. You want to take it further? No problem. We also have an coding guide to program your own app.
 
 <img src="images/thumbnail.jpg" width=500px alt="Smartphone Robot">
 
@@ -13,10 +13,9 @@ You can purchase the Smartphone Robot kit in our online store:
 
 ## Features
 - **Easy soldering kit** – Perfect for beginners
-- **Innovative mechanism** – Turns on by simply rotating the egg
-- **RGB LEDs for stunning lighting effects**
-- **Great Easter gift** – Decorative and interactive
-- **Sustainable materials** – 3D-printed parts made from recycled PLA
+- **Innovative mechanism** – Control your robot by light
+- **Turn a smartphone into a robot** - Old phone? No problem. Turn it into a fun little robot
+- **Emotions for your robot** - You can also program emotions to your robot! Make it sweet!
 
 ## Included in the Kit
 | Quantity  | Description 									|
