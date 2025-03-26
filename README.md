@@ -52,7 +52,7 @@ For assembly, you will need:
 A detailed **step-by-step guide** is available in the Wiki and GitHub repository.
 
 ## License
-This project is licensed under **CC-BY-SA 4.0** - [Volt, Paper, Scissors!](https://www.voltpaperscissors.com/) and [Timo Schindler](https://shop.blinkyparts.com)
+This project is licensed under **[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** - [Volt, Paper, Scissors!](https://www.voltpaperscissors.com/) and [Timo Schindler](https://shop.blinkyparts.com)
 
 
 
