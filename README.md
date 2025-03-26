@@ -28,11 +28,11 @@ You can purchase the Smartphone Robot kit in our online store:
 | 1 		| Push Button 									|
 | 2 		| 10k Motor Resistor 							|
 | 1 		| 1k LED Resistor 								|
-| 2 		| Transistor IRLB8721 							|
+| 2 		| Mosfet IRLB8721 								|
 | 13 		| Lasercut Wooden Parts 						|
 | 2			| Rubber Ring (68mm) 							|
 | 4			| Wire (12cm)									|
-| 1 		| Teflon Slider (optional) 						|
+| 1 		| Teflon Slider 								|
 | 2			| AA-/Mignon-Batteries (Recarchable)			|
 | 1 		| Plastic Cap of an PET Bottle (not included) 	|
 | 4			| Zip Tie (not included)						|
