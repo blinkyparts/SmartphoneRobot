@@ -15,3 +15,5 @@ _autosave-*
 fp-info-cache
 
 #own files
+misc/*
+misc/
