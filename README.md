@@ -30,10 +30,11 @@ You can purchase the Smartphone Robot kit in our online store:
 | 1 		| 1k LED Resistor 								|
 | 2 		| Transistor IRLB8721 							|
 | 13 		| Lasercut Wooden Parts 						|
-| 1 		| Teflon Slider (optional) 						|
-| 1 		| Plastic Cap of an PET Bottle (not included) 	|
 | 2			| Rubber Ring (68mm) 							|
 | 4			| Wire (12cm)									|
+| 1 		| Teflon Slider (optional) 						|
+| 2			| AA-/Mignon-Batteries (Recarchable)			|
+| 1 		| Plastic Cap of an PET Bottle (not included) 	|
 | 4			| Zip Tie (not included)						|
 
 ## Needed tools (not included)
@@ -41,6 +42,9 @@ You can purchase the Smartphone Robot kit in our online store:
 - Hot glue
 - Soldering iron
 
+## Wooden part
+We've used the wonderful boxes generator from the hackspace-bamberg.de: https://boxes.hackerspace-bamberg.de/
+We also use 3mm plywood. You can find the laser-files in this repository.
 
 ## Assembly Instructions
 For assembly, you will need:
