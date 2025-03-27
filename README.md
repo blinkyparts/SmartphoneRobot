@@ -1,6 +1,6 @@
 # Smartphone Robot - An easy robot you can control with your Smartphone
 
-This is an easy robot soldering kit to turn a smartphone into a robot. The fun part is, you don't program the hardware. You just add an Smartphone and due to light signals it controlls the motors of the robot. Thus you can easily controll the robot with any smartphone wihtout any programming skills. You want to take it further? No problem. We also have an coding guide to program your own app.
+This is an easy robot soldering kit to turn a smartphone into a robot. The fun part is, you don't program the hardware. You just add an Smartphone and due to light signals it controlls the motors of the robot. Thus you can easily controll the robot with any smartphone wihtout any programming skills. You want to take it further? No problem. We also have [coding tutorials](https://www.voltpaperscissors.com/diyroboticsplattform#aiintro) to program your own app.
 
 <img src="images/thumbnail.jpg" width=500px alt="Smartphone Robot">
 
